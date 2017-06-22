@@ -6,9 +6,9 @@
     },
     "smtp": {
         "addr": "smtp.exmail.qq.com:25",
-        "username": "skyeye@e.hunantv.com",
+        "username": "test@168.com",
         "password": "",
-        "from": "skyeye@e.hunantv.com"
+        "from": "test@168.com"
     },
     "sms" : {
         "addr": "http://sdk2.zucp.net:8060/.asmx/mt",
