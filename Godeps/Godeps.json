@@ -1,0 +1,31 @@
+{
+	"ImportPath": "github.com/open-falcon/mail-provider",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/toolkits/container/nmap",
+			"Rev": "7788d916d95c0c983d3bef4dbc1f0e67aa69da4f"
+		},
+		{
+			"ImportPath": "github.com/toolkits/file",
+			"Rev": "ab007cd1c33919068b9b9538b5b4be22d833c5f1"
+		},
+		{
+			"ImportPath": "github.com/toolkits/http/httpclient",
+			"Rev": "f3ac6e6c24be069828e95fc2dcc018aae084cd6c"
+		},
+		{
+			"ImportPath": "github.com/toolkits/smtp",
+			"Rev": "7cc935bc2ffa491bb44a5a84922208871b7ee605"
+		},
+		{
+			"ImportPath": "github.com/toolkits/web/errors",
+			"Rev": "dc0f03327e1d58851ef88fca6e8008ffb6de806a"
+		},
+		{
+			"ImportPath": "github.com/toolkits/web/param",
+			"Rev": "dc0f03327e1d58851ef88fca6e8008ffb6de806a"
+		}
+	]
+}

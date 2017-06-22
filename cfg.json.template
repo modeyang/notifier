@@ -1,0 +1,20 @@
+{
+    "debug": true,
+    "http": {
+        "listen": "0.0.0.0:4000",
+        "token": "c4f1b341c252503bcb02fa5a2df92305"
+    },
+    "smtp": {
+        "addr": "smtp.exmail.qq.com:25",
+        "username": "skyeye@e.hunantv.com",
+        "password": "",
+        "from": "skyeye@e.hunantv.com"
+    },
+    "sms" : {
+        "addr": "http://sdk2.zucp.net:8060/.asmx/mt",
+        "sn": "DXX-WSS-010-05540",
+        "pwd": "",
+        "ext": "",
+        "stime": ""
+    }
+}
